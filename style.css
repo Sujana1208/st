@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    text-align: left;
+     }
+.header img{
+      border:0;
+      border-radius: 50px;
+      height:125px;
+      width: 125px;
+     }
+
+.air{
+    background: linear-gradient(to right,  #616900 0%, #B4BA6D 100%);
+}
+button{
+    height:50px;
+    width:150px;
+    border-radius:5px;
+    border:0;
+    margin-left: 20px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: #F5E521;
+}
+.about p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: azure;
+    font-style: oblique;
+    font-size: 20px;
+}
+
